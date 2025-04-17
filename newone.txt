@@ -1,0 +1,7 @@
+Basic git commands:
+
+git add .           # Stages all changes for the next commit
+git status          # Displays the current state of the working directory
+git commit -m "Message"  # Commits the staged changes with a message
+git push origin main    # Pushes your commits to the remote repository (GitHub)
+git mv               # Moves or renames files in your repository
