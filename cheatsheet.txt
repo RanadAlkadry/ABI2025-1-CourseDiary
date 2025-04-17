@@ -1,0 +1,6 @@
+"Git Cheatsheet:" 
+"----------------" 
+"git status       # Check the status of files" 
+"git add .        # Stage all changes" 
+"git commit -m \"message\"  # Commit changes" 
+"git push         # Push to GitHub" 
